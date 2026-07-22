@@ -1,18 +1,20 @@
 # Hi there 👋 I'm Hồ Trọng Vỹ
 
-### Software Engineering Student | Backend Developer | AI Enthusiast
+### Software Engineering Student | Technical Business Analyst | Full-stack Developer | AI Enthusiast
 
-I'm a Software Engineering student passionate about building scalable web applications, cloud computing, and AI technologies. I enjoy learning new technologies and turning ideas into real-world projects.
+I'm a final-year Software Engineering student interested in both Software Development and Technical Business Analysis. I enjoy analyzing business requirements, designing software systems, and building web applications from ideas to implementation. My GitHub showcases not only source code but also system analysis and design artifacts created throughout my projects.
+
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Student
-- 💻 Interested in Backend Development, Cloud & AI
-- 🤖 Exploring Machine Learning & Artificial Intelligence
-- 📚 Always learning something new
-- 📫 Reach me: **hotrongvi1101@gmail.com**
+- 🎓 Final-year Software Engineering Student at Duy Tan University
+- 📊 Interested in Technical Business Analysis & Full-stack Development
+- 📝 Learning Requirement Analysis, UML, BPMN, System Design & Database Design
+- 🤖 Exploring AI-powered Software Solutions
+- 📚 Always learning new technologies and improving problem-solving skills
+- 📫 Reach me: **hotrongvy1101@gmail.com**
 
 ---
 
@@ -24,7 +26,19 @@ I'm a Software Engineering student passionate about building scalable web applic
 
 ---
 
-## 💻 Tech Stack
+## 💼 Technical Skills
+
+### 📊 Business Analysis
+
+- Requirement Analysis
+- User Stories
+- Use Cases
+- UML
+- BPMN
+- User Flow
+- Flowchart
+- Wireframing
+- Database Design (ERD)
 
 ### Languages
 
